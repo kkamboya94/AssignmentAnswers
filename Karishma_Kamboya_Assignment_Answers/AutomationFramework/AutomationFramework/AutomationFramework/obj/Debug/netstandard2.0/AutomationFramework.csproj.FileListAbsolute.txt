@@ -1,0 +1,8 @@
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\bin\Debug\netstandard2.0\AutomationFramework.deps.json
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\bin\Debug\netstandard2.0\AutomationFramework.dll
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\obj\Debug\netstandard2.0\AutomationFramework.csproj.CoreCompileInputs.cache
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\obj\Debug\netstandard2.0\AutomationFramework.AssemblyInfoInputs.cache
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\obj\Debug\netstandard2.0\AutomationFramework.AssemblyInfo.cs
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\bin\Debug\netstandard2.0\AutomationFramework.pdb
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\obj\Debug\netstandard2.0\AutomationFramework.dll
+C:\Users\HP\AutomationFramework\AutomationFramework\AutomationFramework\obj\Debug\netstandard2.0\AutomationFramework.pdb

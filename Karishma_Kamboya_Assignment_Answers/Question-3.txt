@@ -1,0 +1,28 @@
+1. UI Modifications/Enhancements which can be done-
+
+a. Length of textboxes and dropdowns are uneven, it should be even as per the limitation of characters
+b. In applicant details tab, "Aadhar number" or "Pan Id" as ID proof should be mandatory fields to validate the customer
+c. In applicant details tab, "Consumer Number" should be mandatory field to validate that it is having unique consumer number per each customer
+d. There should be organized tabs for "Help" , "About US" and "Contact Information" within the same web page
+e. There should be one tab for "FAQs" which should answer all the basic queries of customers
+f. We can add innovative techniques like rich animations as the web-design and layout are not eye-catching and user friendly
+
+
+2. Functionality which we can be added/improved
+
+a. "Reset All" button should be disable/hidden initially. It should get enabled once customer start adding details/inputs
+b.  Customer's personal data should be secured and confidential 
+c.  In "Upload Document" section of "Permanent" connection form, filetype(s) are not mentioned. The acceptable filetype(s) should be given 
+so that customer can take care while uploading the document
+d.  In "Upload Document" section of "Permanent" connection form, minimum and specific file size is not mentioned for the each document
+e.  "Print" button should be disable/hidden initially. It should get enabled only after the form is completed by the customer
+f.  "Payment" option is missing in "Solar" application form of connection type
+
+3. Usability
+
+a. We can add consistent formats with text items like Aadhar Id, Pan Id ,telephone numbers and addresses
+b. "Steps" or "Instructions" are missing for online form application and payment
+c. There should be one feature for live chat so that customer can directly and easily approach for any queries
+d. We can have "Alert" , it will pop up a dialog for each invalid input given by customer
+
+
